@@ -1,1 +1,2 @@
 Initial bar commit
+Second commit
